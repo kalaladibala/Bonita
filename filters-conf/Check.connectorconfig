@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connectorconfiguration:ConnectorConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:connectorconfiguration="http://wwww.bonitasoft.org/model/connector/configuration" xmlns:expression="http://www.bonitasoft.org/ns/studio/expression" definitionId="bonita-actorfilter-same-task-user" version="1.0.0" name="Check" modelVersion="7.12.0-004">
+  <parameters key="usertaskName">
+    <expression xsi:type="expression:Expression" name="Check" content="Check" returnTypeFixed="true"/>
+  </parameters>
+</connectorconfiguration:ConnectorConfiguration>
