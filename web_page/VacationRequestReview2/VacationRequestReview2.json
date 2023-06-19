@@ -2,7 +2,7 @@
   "modelVersion" : "2.3",
   "id" : "VacationRequestReview2",
   "name" : "VacationRequestReview2",
-  "lastUpdate" : 1681979238472,
+  "lastUpdate" : 1687187867877,
   "rows" : [
     [
       {
@@ -245,7 +245,7 @@
                     {
                       "type" : "component",
                       "dimension" : {
-                        "md" : 4,
+                        "md" : 9,
                         "sm" : 12,
                         "xs" : 12,
                         "lg" : 6

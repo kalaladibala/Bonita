@@ -2,7 +2,7 @@
   "modelVersion" : "2.3",
   "id" : "VacationRequestEscalationReview2",
   "name" : "VacationRequestEscalationReview2",
-  "lastUpdate" : 1681983709591,
+  "lastUpdate" : 1687187844521,
   "rows" : [
     [
       {
@@ -245,7 +245,7 @@
                     {
                       "type" : "component",
                       "dimension" : {
-                        "md" : 12,
+                        "md" : 8,
                         "sm" : 12,
                         "xs" : 12,
                         "lg" : 12
